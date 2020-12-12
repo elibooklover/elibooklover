@@ -1,4 +1,4 @@
-### Digital Humanist, Data Scientists, and Victorianist 🤠
+## Digital Humanist, Data Scientists, and Victorianist 🤠
 
 <div align=right>
 
@@ -10,6 +10,10 @@
 - <a href="https://elibooklover.github.io/Victorian400/" target="_blank">Victorian400</a>: Dataset for colorizing black-and-white nineteenth-century illustrations consisting of 400 images.
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for machine learning-based sentiment analysis of nineteenth-century British novels.
 - Co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with Pytorch</a>
+
+### Course Websites
+
+- <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a>
 
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
 
