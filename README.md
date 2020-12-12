@@ -1,4 +1,4 @@
-## Digital Humanist, Data Scientists, and Victorianist 🤠
+## Digital Humanist, Data Scientist, and Victorianist 🤠
 
 <div align=right>
 
