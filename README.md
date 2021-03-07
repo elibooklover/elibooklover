@@ -9,7 +9,7 @@
 
 - <a href="https://elibooklover.github.io/Victorian400/" target="_blank">Victorian400</a>: Dataset for colorizing black-and-white nineteenth-century illustrations consisting of 400 images.
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for machine learning-based sentiment analysis of nineteenth-century British novels.
-- Co-author of <a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">Deep Learning Tutorials with PyTorch</a>
+- Co-author of Deep Learning Tutorials with PyTorch (<a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">KOR</a>/<a href="https://pseudo-lab.github.io/Tutorial-Book-en/index.html" target="_blank">ENG</a>)
 
 ### Course Websites
 
