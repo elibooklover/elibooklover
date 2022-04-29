@@ -1,4 +1,4 @@
-## Digital Humanist & Data Scientist 🤠
+## Texan 🤠
 
 <div align=right>
 
