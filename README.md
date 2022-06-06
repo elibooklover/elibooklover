@@ -14,6 +14,7 @@
 
 ### Course Websites
 
+- <s href="https://github.com/elibooklover/Deep-Learning-for-Humanists" target="_blank">Deep Learning for Humanists @DHSI22 (Private)</a>
 - <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a>
 
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
