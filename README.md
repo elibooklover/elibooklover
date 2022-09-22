@@ -8,13 +8,21 @@
 
 </div>
 
+### Academic Articles
+
+- <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000612/000612.html" target="_blank">Sentiment Analysis: Limits and Progress of the Syuzhet Package and Its Lexicon</a>, *Digital Humanities Quarterly*, vol. 16, no. 2, 2022.
+- <a href="https://www.euppublishing.com/doi/full/10.3366/ijhac.2021.0269" target="_blank">*Victorian400*: Colorizing Victorian Illustrations</a>, *International Journal of Humanities and Arts Computing*, vol. 15, no. 1-2, Oct. 2021, pp. 186-202.
+
+### Projects
+
 - <a href="https://elibooklover.github.io/Victorian400/" target="_blank">Victorian400</a>: Dataset for colorizing black-and-white nineteenth-century illustrations consisting of 400 images.
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for deep learning-based sentiment analysis of nineteenth-century British novels.
 - Co-author of Deep Learning Tutorials with PyTorch (<a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">KOR</a>/<a href="https://pseudo-lab.github.io/Tutorial-Book-en/index.html" target="_blank">ENG</a>)
 
 ### Course Websites
 
-- <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a>
+- <a href="https://github.com/elibooklover/Deep-Learning-for-Humanists" target="_blank">Deep Learning for Humanists (June 2022)</a> at DHSI, University of Victoria.
+- <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a> at Texas A&M University.
 
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
 
