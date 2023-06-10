@@ -29,7 +29,7 @@
 ### Course Websites
 
 - <a href="https://github.com/elibooklover/Deep-Learning-for-Humanists-2023" target="_blank">Deep Learning for Humanists (June 2023)</a> at DHSI, University of Victoria.
-- <a href="https://github.com/elibooklover/Deep-Learning-for-Humanists-2022" target="_blank">Deep Learning for Humanists (June 2022)</a> at DHSI, University of Victoria.
+- Deep Learning for Humanists (June 2022) at DHSI, University of Victoria.
 - <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a> at Texas A&M University.
 
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
