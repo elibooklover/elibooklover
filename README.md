@@ -33,7 +33,9 @@
 - <a href="https://elibooklover.github.io/ENGL304-Spring2021/" target="_blank">ENGL304: Topics in Digital Research (Spring 2021)</a> at Texas A&M University.
 
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
-
+<!--
+![Hoyeol's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elibooklover&langs_count=3)
+-->
 
 <!--
 **elibooklover/elibooklover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
