@@ -21,6 +21,7 @@
 - <a href="https://www.euppublishing.com/doi/full/10.3366/ijhac.2021.0269" target="_blank">*Victorian400*: Colorizing Victorian Illustrations</a>, *International Journal of Humanities and Arts Computing*, vol. 15, no. 1-2, Oct. 2021, pp. 186-202.
 
 ### Projects
+- <a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843" target="_blank">NeonLED</a>: LED banner that displays text with special effects.
 - <a href="https://github.com/elibooklover/Translit" target="_blank">Transliter</a>: a Python library to transliterate multilingual text into Latin script.
 - <a href="https://elibooklover.github.io/Victorian400/" target="_blank">Victorian400</a>: Dataset for colorizing black-and-white nineteenth-century illustrations consisting of 400 images.
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for deep learning-based sentiment analysis of nineteenth-century British novels.
