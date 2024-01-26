@@ -22,7 +22,7 @@
 
 ### Individual Projects
 - <a href="https://apps.apple.com/us/app/safekey-password-manager/id6475980444" target="_blank">SafeKey (iOS App)</a>: a secure password manager that supports syncing through iCloud.
-- <a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843" target="_blank">NeonLED (iOS App)</a>: LED banner that displays text with special effects.
+- <a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843" target="_blank">NeonLED (iOS App)</a>: LED text scroller.
 - <a href="https://github.com/elibooklover/Translit" target="_blank">Transliter</a>: a Python library to transliterate multilingual text into Latin script.
 - <a href="https://elibooklover.github.io/Victorian400/" target="_blank">Victorian400</a>: Dataset for colorizing black-and-white nineteenth-century illustrations consisting of 400 images.
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for deep learning-based sentiment analysis of nineteenth-century British novels.
