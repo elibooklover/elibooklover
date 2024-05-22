@@ -35,7 +35,7 @@
 <h3 align="left">⚡️ Hoyeol's most used languages ⚡️</h3>
 <p align="left">
   <a href="https://github.com/elibooklover">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibooklover&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=holi&hide=SCSS,html,Jupyter%20Notebook,ruby,makefile,c" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibooklover&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=holi&hide=SCSS,html,css,Jupyter%20Notebook,ruby,makefile,c" />
   </a>
 </p>
 <h3 align="left">⚡️ Hoyeol's github stats ⚡️</h3>
