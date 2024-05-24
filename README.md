@@ -31,6 +31,7 @@
 ### Workshop
 
 - <a href="https://github.com/elibooklover/Deep-Learning-for-Humanists-2023" target="_blank">Deep Learning for Humanists (June 2023)</a> at DHSI, University of Victoria.
+- Deep Learning for Humanists (June 2022) at DHSI, University of Victoria.
 
 <h3 align="left">⚡️ Hoyeol's most used languages ⚡️</h3>
 <p align="left">
