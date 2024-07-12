@@ -24,10 +24,11 @@
 - <a href="https://elibooklover.github.io/VictorianLit/" target="_blank">VictorianLit</a>: Dataset for deep learning-based sentiment analysis of nineteenth-century British novels.
 - Co-author of Deep Learning Tutorials with PyTorch (<a href="https://pseudo-lab.github.io/Tutorial-Book/index.html" target="_blank">KOR</a>/<a href="https://pseudo-lab.github.io/Tutorial-Book-en/index.html" target="_blank">ENG</a>)
 
-### Academic Articles
+### Academic Publication
 
 - <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000612/000612.html" target="_blank">Sentiment Analysis: Limits and Progress of the Syuzhet Package and Its Lexicons</a>, *Digital Humanities Quarterly*, vol. 16, no. 2, 2022.
 - <a href="https://www.euppublishing.com/doi/full/10.3366/ijhac.2021.0269" target="_blank">*Victorian400*: Colorizing Victorian Illustrations</a>, *International Journal of Humanities and Arts Computing*, vol. 15, no. 1-2, Oct. 2021, pp. 186-202.
+- <a href="https://hcommons.org/deposits/objects/hc:40638/datastreams/CONTENT/content" target="_blank">The Automatic Generation of Contextual Questions and Answers for English Learners</a>, *The Association for Computers and the Humanities*, Jul. 2021.
 
 ### Workshops
 
