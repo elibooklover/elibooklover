@@ -16,6 +16,7 @@
 -->
 
 ### Projects
+- Colorizer (iOS & Android App): This machine learning-based app colorizes black-and-white photos.
 - <a href="https://apps.apple.com/us/app/safekey-password-manager/id6475980444" target="_blank">SafeKey (iOS App)</a>: a secure password manager that supports syncing through iCloud.
 - <a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843" target="_blank">NeonLED (iOS App)</a>: LED text scroller.
 - <a href="https://github.com/elibooklover/Translit" target="_blank">Transliter</a>: a Python library to transliterate multilingual text into Latin script.
