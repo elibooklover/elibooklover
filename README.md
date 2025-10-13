@@ -17,6 +17,8 @@
 -->
 
 ### Projects
+- <a href="https://apps.apple.com/us/app/voicesummary-ai-summaries/id6753660415" target="_blank">VoiceSummary (iOS)</a>: AI Summaries.
+- AIVoice (iOS)</a>: Text-to-Speech Maker.
 - <a href="https://elibooklover.github.io/Colorizer/" target="_blank">Colorizer (iOS & Android)</a>: This machine learning-based app colorizes black-and-white photos.
 - <a href="https://apps.apple.com/us/app/safekey-password-manager/id6475980444" target="_blank">SafeKey (iOS)</a>: a secure password manager that supports syncing through iCloud.
 - <a href="https://apps.apple.com/us/app/neonled-led-banner/id6474363843" target="_blank">NeonLED (iOS)</a>: LED text scroller.
