@@ -39,7 +39,7 @@
 - <a href="https://github.com/elibooklover/Deep-Learning-for-Humanists-2023" target="_blank">Deep Learning for Humanists (June 2023)</a> at DHSI, University of Victoria.
 - Deep Learning for Humanists (June 2022) at DHSI, University of Victoria.
 
-<h3 align="left">⚡️ Hoyeol's most used languages ⚡️</h3>
+<!-- <h3 align="left">⚡️ Hoyeol's most used languages ⚡️</h3>
 <p align="left">
   <a href="https://github.com/elibooklover">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibooklover&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=holi&hide=SCSS,html,css,Jupyter%20Notebook,ruby,makefile,c" />
@@ -50,7 +50,7 @@
   <a href="https://github.com/elibooklover">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=elibooklover&hide=''&hide_title=false&show_icons=true&include_all_commits=false&theme=holi" />
   </a>
-</p>
+</p> -->
 <!--
 ![Hoyeol's github stats](https://github-readme-stats.vercel.app/api?username=elibooklover&count_private=true&theme=radical)
 -->
