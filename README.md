@@ -14,13 +14,12 @@
 
 ### 🚀 Projects & Applications
 
-- **[VoiceSummary (iOS)](https://apps.apple.com/us/app/voicesummary-ai-summaries/id6753660415)**: Voice recording & summarization app utilizing on-device/cloud ASR, NMT, and LLM pipelines.
-- **[AIVoice (iOS)](https://apps.apple.com/us/app/ai-voice-text-to-speech-maker/id6753904505)**: Text-to-speech maker leveraging modern TTS and LLM integrations.
+- **[VoiceSummary (iOS)](https://elibooklover.github.io/VoiceSummary/)**: Voice recording & summarization app utilizing on-device/cloud ASR, NMT, and LLM pipelines.
+- **[AIVoice (iOS)](https://elibooklover.github.io/AIVoice/)**: Text-to-speech maker leveraging modern TTS and LLM integrations.
 - **[Colorizer (iOS & Android)](https://elibooklover.github.io/Colorizer/)**: Deep learning-based image colorization for historical black-and-white photos.
-- **[SafeKey (iOS)](https://apps.apple.com/us/app/safekey-password-manager/id6475980444)**: Secure offline-first password manager with encrypted iCloud synchronization.
-- **[NeonLED (iOS)](https://apps.apple.com/us/app/neonled-led-banner/id6474363843)**: Dynamic LED marquee and banner text display app.
+- **[SafeKey (iOS)](https://elibooklover.github.io/SafeKey/)**: Secure offline-first password manager with encrypted iCloud synchronization.
+- **[NeonLED (iOS)](https://elibooklover.github.io/NeonLED/)**: Dynamic LED marquee and banner text display app.
 - **[Transliter](https://github.com/elibooklover/Translit)**: Python library for rule-based transliteration of multilingual scripts into Latin text.
-- **[KoreanKitchen (Android)](https://github.com/elibooklover/Kotlin-Projects)**: Recipe discovery and meal prep application built with Kotlin.
 
 ---
 
